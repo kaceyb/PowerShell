@@ -3,8 +3,8 @@
 #Andy Morales
 
 $VHDXPaths = @(
-    '\\SERVER\FSLogix',
-    '\\SERVER\ProfileDisks'
+    #'C:\Shares\RDS_UPD',
+    'C:\Shares\RDS_UPD\PNS'
 )
 
 $VHDXExclusions = @(
